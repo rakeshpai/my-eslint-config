@@ -1,9 +1,11 @@
 {
   "name": "eslint-config-rakeshpai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My ESLint config",
   "main": "index.js",
-  "keywords": ["eslint-config"],
+  "keywords": [
+    "eslint-config"
+  ],
   "author": "Rakesh Pai",
   "license": "ISC",
   "dependencies": {
