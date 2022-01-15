@@ -1,5 +1,5 @@
 {
-  "name": "@rakeshpai/eslint-config",
+  "name": "eslint-config-rakeshpai",
   "version": "1.0.0",
   "description": "My ESLint config",
   "main": "index.js",
