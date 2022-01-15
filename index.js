@@ -150,6 +150,10 @@ module.exports = {
     "@typescript-eslint/explicit-module-boundary-types": "off",
     "react/destructuring-assignment": "off",
     "react/button-has-type": "off",
+    "react/function-component-definition": ["error", {
+      "named-components": "arrow-function",
+      "unnamed-components": "arrow-function"
+    }],
     "jsx-a11y/no-noninteractive-element-interactions": "warn",
     "@typescript-eslint/consistent-type-definitions": [
       "error",
