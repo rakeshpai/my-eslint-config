@@ -17,7 +17,6 @@ module.exports = {
     "jest-dom"
   ],
   parserOptions: {
-    files: ["**/*.ts", "**/*.tsx"],
     ecmaVersion: "esnext",
     sourceType: "module",
     ecmaFeatures: {
