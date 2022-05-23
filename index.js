@@ -25,6 +25,8 @@ module.exports = {
     }
   },
   rules: {
+    "no-redeclare": "off",
+    "@typescript-eslint/no-redeclare": "error",
     "eslint-comments/no-unused-disable": "error",
     "consistent-return": "off",
     "comma-dangle": [
